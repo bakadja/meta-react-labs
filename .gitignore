@@ -128,3 +128,5 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+01-first-compoment/node_modules
+01-first-compoment/INSTRUCTIONS.md
