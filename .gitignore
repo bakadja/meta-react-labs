@@ -130,3 +130,9 @@ dist
 .pnp.*
 01-first-compoment/node_modules
 01-first-compoment/INSTRUCTIONS.md
+
+02-passing-props/node_modules
+02-passing-props/INSTRUCTIONS.md
+
+
+
